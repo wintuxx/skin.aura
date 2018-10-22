@@ -12,77 +12,77 @@ msgstr ""
 
 #: /1080i/Includes_Global.xml
 msgctxt "#31000"
-msgid "Reduced"
+msgid "Reduziert"
 msgstr ""
 
 #: /1080i/DialogVideoInfo.xml
 msgctxt "#31001"
-msgid "Revenue"
+msgid "Einnahmen"
 msgstr ""
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31002"
-msgid "Categories widget"
+msgid "Kategorien Widget"
 msgstr ""
 
 #: /1080i/Includes_Furniture.xml
 msgctxt "#31003"
-msgid "Current conditions"
+msgid "Aktuelle Bedingungen"
 msgstr ""
 
 #: /1080i/Includes_Furniture.xml
 msgctxt "#31004"
-msgid "Sunset at"
+msgid "Sonnenuntergang um"
 msgstr ""
 
 #: /1080i/Includes_Furniture.xml
 msgctxt "#31005"
-msgid "Sunrise at"
+msgid "Sommeraufgang um"
 msgstr ""
 
 #: /1080i/Includes_Furniture.xml
 msgctxt "#31006"
-msgid "Weather provided by"
+msgid "Wetter von"
 msgstr ""
 
 #: /1080i/Includes_Furniture.xml
 msgctxt "#31007"
-msgid "Weather forecast for"
+msgid "Wettervorhersage für"
 msgstr ""
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31008"
-msgid "Install weather fanart"
+msgid "Installiere Wetter Fanart"
 msgstr ""
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31009"
-msgid "Complete"
+msgid "Fertig"
 msgstr ""
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31010"
-msgid "Weather fanart successfully installed"
+msgid "Wetter Fanart erfolgreich installiert"
 msgstr ""
 
 #: /1080i/MyWeather.xml
 msgctxt "#31011"
-msgid "Default weather icons"
+msgid "Standard-Wettersymbole"
 msgstr ""
 
 #: /1080i/MyWeather.xml
 msgctxt "#31012"
-msgid "Weather fanart installed"
+msgid "Wetter Fanart installiert"
 msgstr ""
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31013"
-msgid "Set weather icons"
+msgid "Setze Wettersymbole"
 msgstr ""
 
 #: /1080i/MyVideoNav.xml
 msgctxt "#31014"
-msgid "Extra fanart"
+msgid "Extra Fanart"
 msgstr ""
 
 #: /1080i/SkinSettings.xml
